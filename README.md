@@ -13,7 +13,7 @@ ComponentName/ - folder for grouping everything related to the component<br>
 - ComponentName.js - code of the child component during decomposition;<br>
 - ComponentName.test.js - unit tests of the component;<br>
 - ComponentName.module.css - component styles;<br>
----------------------------------------------------------------------------<br>
+---------------------------------------------------------------------------
 // translate:<br>
 /components — базовые компоненты с запретом импорта других частей приложения;<br>
 /services — функции общения с бекендом;<br>
